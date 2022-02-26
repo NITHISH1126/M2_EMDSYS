@@ -6,6 +6,7 @@ Current project work targets to use automatic floor cleaner for large floor in h
 # In Action
 
 
+
 # Identifying Features
 * Avoiding obstacles and path sensing using ultrasonic sesnor.
 * Cleans the unwanted particles like dust,sand.
