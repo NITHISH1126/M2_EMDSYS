@@ -4,6 +4,8 @@
 * Automatic floor cleaner is a system that enables cleaning of the floor by the help of highly stabilized and rapidly functionalized electronic and mechanical control system. 
 Current project work targets to use automatic floor cleaner for large floor in house-hold purposes and office floors.This can be used on flat surfaces for cleaning
 # In Action
+[M2.txt](https://github.com/NITHISH1126/M2_EMDSYS/files/8146072/M2.txt)
+
 
 
 # Identifying Features
