@@ -26,7 +26,7 @@ the distance between the obstacle and the system.
 are mounted on front, right and left side of wheels.
 * It  transmits  ultrasonic waves  and receives  the reflected  waves  and measures  the distance  to the  target  by computing  the  time between  the emission and reception. 
 * For measuring the distance: 
-Distance= ½ (speed of sound * time taken)
+Distance= Â½ (speed of sound * time taken)
 
 ## IR Proximity Sensor
 * IR sensors are object or obstacle detection infront of sensor.
