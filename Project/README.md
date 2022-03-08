@@ -1,4 +1,4 @@
-# SMART ENGINE COOLING FAN
+# SMART COOLING FAN FOR VEHICLE ENGINES
 # 1. ABSTRACT
    Nowadays the number of vehicles counts are increasing enormously and the use of the vehicles are also increasing a lot.
    For all the vehicles, engine plays a vital role.
@@ -7,7 +7,7 @@
    Electric cooling fans are generally reliable, but sometimes may fail to activate.
    This may cause the engine to overheat. 
    Diagnosing a failure of this type can sometimes be time consuming, and also require special electronic diagnostic tools. 
-   In this proposed mini project,the temperature sensor is used for measuring the engine temperature and the LCD is used to display the obtained temperature.
+   In this project,the temperature sensor is used for measuring the engine temperature and the LCD is used to display the obtained temperature.
    If the temperature displays in the LCD display is above than the fixed value then the cooling fan will be switched ON for reducing the engines heat and then the fan will be switched OFF when the engine becomes to the normal fixed temperature.
    
 ## CODE GRADE
