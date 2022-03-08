@@ -9,6 +9,15 @@
    Diagnosing a failure of this type can sometimes be time consuming, and also require special electronic diagnostic tools. 
    In this proposed mini project,the temperature sensor is used for measuring the engine temperature and the LCD is used to display the obtained temperature.
    If the temperature displays in the LCD display is above than the fixed value then the cooling fan will be switched ON for reducing the engines heat and then the fan will be switched OFF when the engine becomes to the normal fixed temperature.
+   
+## CODE GRADE
+
+![CODE QUALITY](https://api.codiga.io/project/31742/status/svg)
+
+![CODE SCORE](https://api.codiga.io/project/31742/score/svg)
+
+### BUILD STATUS
+[![CI](https://github.com/NITHISH1126/M2_EMDSYS/actions/workflows/cpp.yml/badge.svg)](https://github.com/NITHISH1126/M2_EMDSYS/actions/workflows/cpp.yml)
 
 # 2. FEATURES
   * Button sensor will check the engine is started or not.
@@ -52,11 +61,7 @@ This shall be used in all the vehicles
 ## How
 This shall be used by reducing the heat of the engine by cooling fan
 
-[![CI](https://github.com/NITHISH1126/M2_EMDSYS/actions/workflows/cpp.yml/badge.svg)](https://github.com/NITHISH1126/M2_EMDSYS/actions/workflows/cpp.yml)
 
-![CODE SCORE](https://api.codiga.io/project/31742/score/svg)
-
-![CODE QUALITY](https://api.codiga.io/project/31742/status/svg)
 
 ## Folder Structure
 |Folder             | Description |
