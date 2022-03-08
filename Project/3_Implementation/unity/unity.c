@@ -25,6 +25,7 @@ void UNITY_OUTPUT_CHAR(int);
 
 struct UNITY_STORAGE_T Unity;
 
+
 #ifdef UNITY_OUTPUT_COLOR
 const char PROGMEM UnityStrOk[]                            = "\033[42mOK\033[00m";
 const char PROGMEM UnityStrPass[]                          = "\033[42mPASS\033[00m";
