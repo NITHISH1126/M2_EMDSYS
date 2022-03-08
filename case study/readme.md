@@ -1,6 +1,5 @@
 # CASE STUDY
 ## SOLAR ENERGY WITH TRACKING SUN
-
 ## INTRODUCTION
 
 Solar energy is defined as the transformation of energy that is present in the sun and is one of the renewable energies.
