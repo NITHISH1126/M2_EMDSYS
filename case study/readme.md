@@ -1,5 +1,4 @@
 # CASE STUDY
-
 ## SOLAR ENERGY WITH TRACKING SUN
 
 ## INTRODUCTION
@@ -9,3 +8,4 @@ With the current systems for solar energy harvesting, we have high production on
 This Study proposes a dual axis solar tracker system that increases the productivity by a significant margin. 
 ## DOCUMENT
 [CASE STUDY.docx](https://github.com/NITHISH1126/M2_EMDSYS/files/8104004/CASE.STUDY.docx)
+
