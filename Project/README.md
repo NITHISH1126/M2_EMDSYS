@@ -2,6 +2,10 @@
 
 [![CI](https://github.com/NITHISH1126/M2_EMDSYS/actions/workflows/cpp.yml/badge.svg)](https://github.com/NITHISH1126/M2_EMDSYS/actions/workflows/cpp.yml)
 
+![CODE SCORE](https://api.codiga.io/project/31742/score/svg)
+
+![CODE QUALITY](https://api.codiga.io/project/31742/status/svg)
+
 ## Folder Structure
 |Folder             | Description |
 |-------------------| -----------------------------------------|
