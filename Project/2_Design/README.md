@@ -4,7 +4,6 @@
 ![BLOCKDIAGRAM](https://github.com/LOGESHWARANS389/M2-EmbSys/blob/main/Project/2_Design/BlockDiagram.jpg)
 
 * Low Level Structural Diagram:
-
 ![FLOWDIAGRAM](https://github.com/LOGESHWARANS389/M2-EmbSys/blob/main/Project/2_Design/FlowDiagram.jpg)
 
 # Behavioral Diagram
@@ -17,6 +16,7 @@
 ![LOW](https://github.com/LOGESHWARANS389/M2-EmbSys/blob/main/Project/2_Design/BEHAVIORALLOW.jpg)
 
 # 6. COMPONENTS:
+
 ## 6.1 ATMEGA328P
 	The ATMEGA328P is a popular microcontroller due to it being a major component in the Arduino board products. In this proposed project it is used as a major micro controller, it converts analog to digital and maps certain values. It controls potentiometer and LCD displays.
   
